@@ -1,0 +1,6 @@
+need to have styled-components installed
+to install:
+
+1- "npm install styled-components"
+
+2- run the app by typing "npm start" in the terminal. 
